@@ -48,6 +48,7 @@ class BST {
         }
         delete node;
     }
+    
  public:
     BST() {
         root = nullptr;
